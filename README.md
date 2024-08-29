@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&section=header&reversal=false&fontAlign=35&animation=twinkling&textBg=false&fontSize=65&strokeWidth=2&fontColor=FFFFFF&stroke=3a00a2"/>
 </div>
+
 ## Hi there 👋
 
 <!--
