@@ -6,7 +6,7 @@
 
 - My name is Inhye Hong.
 - Since 2022, I've been working as a software developer in Hurryup Korea.
-- https://sophia9999.github.io/ is my space for technical and daily writing.
+- https://sophia9999.github.io is my space for technical and daily writing.
 - This is what I use programming languages:
 <div id="toplangs" align="center">
   
