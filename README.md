@@ -10,7 +10,7 @@
 - This is what I use programming languages:
 <div id="toplangs" align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophia9999&hide=html,css&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophia9999&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 <!--
