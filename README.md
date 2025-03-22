@@ -2,12 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&section=header&reversal=false&fontAlign=35&animation=twinkling&textBg=false&fontSize=65&strokeWidth=2&fontColor=FFFFFF&stroke=3a00a2"/>
 </div>
 
-## Hi there 👋
+# 👋 Hi, I'm Inhye Hong. (Sophia)
 
-- My name is Inhye Hong.
-- Since 2022, I've been working as a software developer in Hurryup Korea.
-- https://sophia9999.github.io is my space for technical and daily writing.
-- This is what I use programming languages:
+I'm a backend developer who values clarity, consistency, and maintainability in code.
+
+I enjoy learning how systems work beneath the surface,  
+and I like connecting programming concepts with broader ideas like operating systems and architecture.
+
+I occasionally write technical posts to organize my thoughts and deepen my understanding.  
+You can find them here: [https://sophia9999.github.io](https://sophia9999.github.io)
+
+Thanks for visiting my GitHub!
+
 <div id="toplangs" align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophia9999&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
