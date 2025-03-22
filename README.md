@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&section=header&reversal=false&fontAlign=35&animation=twinkling&textBg=false&fontSize=65&strokeWidth=2&fontColor=FFFFFF&stroke=3a00a2"/>
 </div>
 
-# 👋 Hi, I'm Inhye Hong. (Sophia)
+# 👋 Hi, I'm Inhye Hong (Sophia)
 
-I'm a backend developer who values clarity, consistency, and maintainability in code.
+I'm a fullstack developer with a strong focus on backend development.
+
+I value clarity, consistency, and maintainability in code.
 
 I enjoy learning how systems work beneath the surface,  
 and I like connecting programming concepts with broader ideas like operating systems and architecture.
